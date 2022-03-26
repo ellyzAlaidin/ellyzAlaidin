@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring github
 - 🌱 I’m currently learning pyhton, SQL.
 - 💞️ I’m looking to collaborate on none atm
-- 📫 How to reach me via linkedin
+- 📫 You may reach me via linkedin
 
 <!---
 ellyzAlaidin/ellyzAlaidin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
